@@ -11,6 +11,7 @@
 ### 🚀 About Me
 
 Desenvolvedor web na UNESP - IBB.  
+Criador do Bite Menu
 
 ### 🛠️ Tech Stack
 
