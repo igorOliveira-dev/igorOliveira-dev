@@ -11,8 +11,6 @@
 ### 🚀 About Me
 
 Desenvolvedor web na UNESP - IBB.  
-- Next.js  
-- PostgreSQL
 
 ### 🛠️ Tech Stack
 
